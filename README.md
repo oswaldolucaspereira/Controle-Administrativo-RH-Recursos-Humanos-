@@ -42,8 +42,7 @@ Tempo de empresa (calculado automaticamente)
 
 Indicadores principais calculados:
 
-Total de Funcionários
-
+Quant de Funcionários
 
 Folha Salarial Total
 
