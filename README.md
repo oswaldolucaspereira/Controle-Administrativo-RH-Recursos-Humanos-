@@ -44,6 +44,7 @@ Indicadores principais calculados:
 
 Total de Funcionários
 
+
 Folha Salarial Total
 
 Média Salarial
